@@ -8,8 +8,7 @@ export const profile = {
   whatsappLink: "https://wa.me/237679630287",
   availability: "20 hours / week · Available to start a trial immediately",
   location: "Remote · Works across time zones",
-  // To use your real headshot: save it as public/profile.jpg and change this to "/profile.jpg"
-  photo: "/profile.svg",
+  photo: "/profile.jpg",
 };
 
 export const stats = [
