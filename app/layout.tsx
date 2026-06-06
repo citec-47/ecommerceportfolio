@@ -11,7 +11,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Ndonyi Maurice | Ecommerce & Digital Marketing VA",
   description:
-    "Ndonyi Maurice Djam — Ecommerce & Digital Marketing Virtual Assistant and Full-Stack Developer. Amazon & TikTok Shop management, social media marketing, content scheduling, automation, and web development.",
+    "Ndonyi Maurice Djam: Ecommerce & Digital Marketing Virtual Assistant and Full-Stack Developer. Amazon & TikTok Shop management, social media marketing, content scheduling, automation, and web development.",
   keywords: [
     "Virtual Assistant",
     "Ecommerce VA",

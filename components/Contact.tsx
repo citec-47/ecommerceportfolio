@@ -22,7 +22,7 @@ export default function Contact() {
                 <p className="mt-4 max-w-md leading-relaxed text-slate-300">
                   I&apos;m available <strong className="text-white">20+ hours a week</strong> and
                   ready to start a trial immediately. Tell me about your store
-                  and where you&apos;re stretched thin — let&apos;s grow your
+                  and where you&apos;re stretched thin. Let&apos;s grow your
                   business without the overwhelm.
                 </p>
 

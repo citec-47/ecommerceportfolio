@@ -15,7 +15,7 @@ export default function Services() {
             One VA. The whole digital workload.
           </h2>
           <p className="mt-4 text-slate-400">
-            From running your marketplaces to building the tools behind them —
+            From running your marketplaces to building the tools behind them,
             here&apos;s how I help your business run leaner.
           </p>
         </Reveal>

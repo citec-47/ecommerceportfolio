@@ -17,7 +17,7 @@ export default function Hero() {
         <div className="animate-fade-up">
           <span className="inline-flex items-center gap-2 rounded-full border border-line bg-ink-soft/60 px-4 py-1.5 text-xs font-medium text-mint">
             <span className="h-2 w-2 animate-pulse rounded-full bg-mint" />
-            Available for a trial — immediately
+            Available for a trial, starting immediately
           </span>
 
           <h1 className="mt-6 text-4xl font-extrabold leading-[1.1] tracking-tight text-white sm:text-5xl md:text-6xl">
@@ -28,7 +28,7 @@ export default function Hero() {
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-slate-300">
             {profile.tagline} I manage Amazon &amp; TikTok Shop, run your social
-            content, and — because I&apos;m also a full-stack developer — I can
+            content, and because I&apos;m also a full-stack developer, I can
             build the tools your store needs, not just flag them.
           </p>
 

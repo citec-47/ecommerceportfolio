@@ -14,7 +14,7 @@ export default function Skills() {
               Tools &amp; capabilities I bring on day one.
             </h2>
             <p className="mt-4 leading-relaxed text-slate-400">
-              A blend of ecommerce operations, marketing, and real engineering —
+              A blend of ecommerce operations, marketing, and real engineering,
               so most things you need stay in-house with one person.
             </p>
 

@@ -4,7 +4,7 @@ import { profile } from "@/lib/data";
 const highlights = [
   {
     title: "Ecommerce operator",
-    text: "Hands-on with Amazon & TikTok Shop — listings, marketplace management, and the daily upkeep that keeps a store healthy.",
+    text: "Hands-on with Amazon & TikTok Shop: listings, marketplace management, and the daily upkeep that keeps a store healthy.",
   },
   {
     title: "Marketer",
@@ -31,19 +31,20 @@ export default function About() {
             </span>
             <h2 className="mt-3 text-3xl font-bold text-white sm:text-4xl">
               The marketing side <span className="text-slate-500">and</span> the
-              technical side — in one person.
+              technical side, in one person.
             </h2>
             <p className="mt-6 leading-relaxed text-slate-300">
               I&apos;ve watched founders stretched thin: managing stores,
               juggling social media, answering customer messages, and trying to
-              market consistently — all while attempting to actually grow. The
+              market consistently, all while attempting to actually grow. The
               tasks that drive sales are usually the first to fall behind.
             </p>
             <p className="mt-4 leading-relaxed text-slate-300">
               That&apos;s where I come in. I take the day-to-day digital work off
               your plate and treat your business like it&apos;s my own. And when
-              your store needs more than routine upkeep — a fix, an integration,
-              an automation, a landing page — I can actually build it.
+              your store needs more than routine upkeep, whether a fix, an
+              integration, an automation, or a landing page, I can actually
+              build it.
             </p>
 
             <div className="mt-8 flex flex-wrap gap-3 text-sm">

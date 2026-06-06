@@ -2,7 +2,7 @@ export const profile = {
   name: "Ndonyi Maurice Djam",
   shortName: "Ndonyi Maurice",
   role: "Ecommerce & Digital Marketing Virtual Assistant",
-  tagline: "I take the day-to-day digital work off your plate — so you can focus on growth.",
+  tagline: "I take the day-to-day digital work off your plate, so you can focus on growth.",
   email: "mauricendonyi40@gmail.com",
   whatsapp: "+237679630287",
   whatsappLink: "https://wa.me/237679630287",
@@ -78,7 +78,7 @@ export const services: Service[] = [
     title: "Web Development",
     icon: "code",
     description:
-      "My technical edge: when your store needs more than upkeep, I can actually build it — not just flag it.",
+      "My technical edge: when your store needs more than upkeep, I can actually build it, not just flag it.",
     points: [
       "Websites & landing pages",
       "Ecommerce platforms",
@@ -124,7 +124,7 @@ export const process = [
   {
     step: "02",
     title: "Daily Operations",
-    text: "I run the day-to-day — listings, scheduling, engagement, and customer support — keeping things moving.",
+    text: "I run the day-to-day work: listings, scheduling, engagement, and customer support, keeping things moving.",
   },
   {
     step: "03",
