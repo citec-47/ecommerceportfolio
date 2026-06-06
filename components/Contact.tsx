@@ -20,7 +20,7 @@ export default function Contact() {
                   Ready to take the busywork off your plate?
                 </h2>
                 <p className="mt-4 max-w-md leading-relaxed text-slate-300">
-                  I&apos;m available <strong className="text-white">20 hours a week</strong> and
+                  I&apos;m available <strong className="text-white">20+ hours a week</strong> and
                   ready to start a trial immediately. Tell me about your store
                   and where you&apos;re stretched thin — let&apos;s grow your
                   business without the overwhelm.
@@ -63,7 +63,7 @@ export default function Contact() {
                 <ContactRow
                   icon={<span className="text-base">🕒</span>}
                   label="Availability"
-                  value="20 hrs/week · Trial-ready"
+                  value="20+ hrs/week · Trial-ready"
                 />
               </div>
             </div>

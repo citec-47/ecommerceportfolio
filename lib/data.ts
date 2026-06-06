@@ -6,13 +6,13 @@ export const profile = {
   email: "mauricendonyi40@gmail.com",
   whatsapp: "+237679630287",
   whatsappLink: "https://wa.me/237679630287",
-  availability: "20 hours / week · Available to start a trial immediately",
+  availability: "20+ hours / week · Available to start a trial immediately",
   location: "Remote · Works across time zones",
   photo: "/profile.jpg",
 };
 
 export const stats = [
-  { value: "20h", label: "Weekly availability" },
+  { value: "20h+", label: "Weekly availability" },
   { value: "2", label: "Marketplaces (Amazon & TikTok)" },
   { value: "3+", label: "Languages: JS, React, Rails" },
   { value: "24/7", label: "Reliable remote collaboration" },
